@@ -4,6 +4,12 @@ A mineable (proof-of-work) smartBCH SEP20 token based on [0xBitcoin](https://0xb
 
 [smartBCH explorer](https://smartscan.cash)
 
+![Coolicon](img/Coolicon.png)
+
+[COOL icon IPFS](https://gateway.pinata.cloud/ipfs/QmNrtEQ2Nh8zcLFBGgb9ALjLEbqNzDvc38dSkevHABY6RQ)
+
+[COOL icon IPFS metadata](https://gateway.pinata.cloud/ipfs/QmQLWQZF1RhXvi2nCwpBjvnyXyZZ8EpNi47HfKzwnYc3Z2)
+
 ```
 Symbol: COOL
 Name: COOL
